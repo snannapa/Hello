@@ -1,1 +1,2 @@
-This is the second commit made
+# Hello
+My first commit on GitHub
